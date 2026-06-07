@@ -21,7 +21,6 @@ yarn dev
 
 模型：deepseek-ai/DeepSeek-V3.2
 
-首次使用需填入 SiliconFlow API Key（保存在 localStorage）
 
 ## 使用说明
 

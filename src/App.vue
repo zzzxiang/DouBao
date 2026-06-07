@@ -1,5 +1,6 @@
 <script setup>
 import {ref,reactive,watch} from 'vue'
+localStorage.setItem('deepseek_api_key', 'sk-bfwtleampwpipgmxtulkpkrmwfxkdlyzivnfgypswmvbotiq') 
 const messages=reactive([])
 const usermessage=ref('')
 const isListening = ref(false)
