@@ -1,0 +1,58 @@
+{
+  "id": "5190709",
+  "name": "豆包",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6539449",
+      "name": "向上箭头",
+      "font_class": "xiangshangjiantou",
+      "unicode": "e68a",
+      "unicode_decimal": 59018
+    },
+    {
+      "icon_id": "6539424",
+      "name": "麦克风",
+      "font_class": "maikefeng",
+      "unicode": "e683",
+      "unicode_decimal": 59011
+    },
+    {
+      "icon_id": "7787367",
+      "name": "窗户-01",
+      "font_class": "chuanghu-",
+      "unicode": "e73c",
+      "unicode_decimal": 59196
+    },
+    {
+      "icon_id": "25964419",
+      "name": "电话",
+      "font_class": "dianhua",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "28480137",
+      "name": "对话",
+      "font_class": "duihua",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "46814096",
+      "name": "悬浮窗口",
+      "font_class": "xuanfuchuangkou",
+      "unicode": "e793",
+      "unicode_decimal": 59283
+    },
+    {
+      "icon_id": "1236853",
+      "name": "记录",
+      "font_class": "06",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    }
+  ]
+}
